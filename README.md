@@ -26,7 +26,3 @@ The Moodle File Restrictor Plugin is designed to enhance course file management 
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests.
-
----
-
-Feel free to modify it as needed!
